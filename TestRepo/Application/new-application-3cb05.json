@@ -1,0 +1,87 @@
+{
+  "acronym": "NA",
+  "trackingFieldId": "66fd787cfe273e6183a84da9",
+  "layout": [
+    {
+      "fieldId": "atva8",
+      "helpTextType": "None",
+      "helpText": " ",
+      "layoutType": "Field",
+      "id": "66fd787f732851f29a637b75",
+      "row": 1,
+      "col": 1,
+      "sizex": 4,
+      "sizey": 0
+    },
+    {
+      "fieldId": "a3jn7",
+      "helpTextType": "None",
+      "helpText": " ",
+      "layoutType": "Field",
+      "id": "66fda0c03eab9ea82c240eea",
+      "row": 1,
+      "col": 2,
+      "sizex": 4,
+      "sizey": 0
+    }
+  ],
+  "fields": [
+    {
+      "prefix": "",
+      "suffix": "",
+      "placeholder": "",
+      "inputType": "Text",
+      "lengthType": "None",
+      "unique": false,
+      "writeOnce": false,
+      "visualize": false,
+      "visualizeMode": 0,
+      "id": "atva8",
+      "name": "Text",
+      "key": "text",
+      "fieldType": "Text",
+      "required": false,
+      "readOnly": false,
+      "supportsMultipleOutputMappings": false
+    },
+    {
+      "prefix": "",
+      "suffix": "",
+      "placeholder": "",
+      "inputType": "Text",
+      "lengthType": "None",
+      "unique": false,
+      "writeOnce": false,
+      "visualize": false,
+      "visualizeMode": 0,
+      "id": "a3jn7",
+      "name": "Text (2)",
+      "key": "text-2",
+      "fieldType": "Text",
+      "required": false,
+      "readOnly": false,
+      "supportsMultipleOutputMappings": false
+    },
+    {
+      "prefix": "NA-",
+      "id": "66fd787cfe273e6183a84da9",
+      "name": "Tracking Id",
+      "key": "tracking-id",
+      "fieldType": "Tracking",
+      "readOnly": true,
+      "supportsMultipleOutputMappings": false
+    }
+  ],
+  "maxTrackingId": 0,
+  "workspaces": [],
+  "createWorkspace": false,
+  "createdDate": "2024-10-02T16:44:44.528Z",
+  "modifiedDate": "2024-10-02T19:36:33.716Z",
+  "timeTrackingEnabled": false,
+  "selectionFields": {},
+  "uid": "new-application-3cb05",
+  "version": 3,
+  "id": "aRmGWlxgIMcRSBTmE",
+  "name": "New Application",
+  "disabled": false
+}
